@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @Sibonile7
-- 👀 I’m interested in Artificial Intelligence, Robotics and  Software Engineering 
-- 🌱 I’m currently learning Machine Learning , Robotics and Computer Vision
-- 📫 How to reach me send me an email "bonniemthunzimthunzi@gmail.com"
+## 👋 Hi, I’m Sibonile (aka @Sibonile7)
+
+I’m an M.Sc. student in **Artificial Intelligence for Smart Sensors & Actuators** based in Germany, with interests in **AI, robotics, computer vision, and software engineering**.
+
+### 👀 Interests
+- Machine Learning & Applied AI  
+- Robotics (autonomous systems, sensing, navigation)  
+- Computer Vision (detection, tracking, real-world deployments)
+
+### 🌱 Currently learning / building
+- ML fundamentals + model evaluation  
+- Robotics tools (ROS, simulation, control)  
+- Computer vision projects and edge/IoT-focused AI systems
+
+### 📫 Contact
+Email: **bonniemthunzimthunzi@gmail.com**
+
 
 <!---
 Sibonile7/Sibonile7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
