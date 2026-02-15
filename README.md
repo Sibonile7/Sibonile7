@@ -26,11 +26,6 @@
 ### 📫 Contact
 📧 **bonniemthunzimthunzi@gmail.com**
 
----
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sibonile7)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sibonile7)
-
 
 
 
