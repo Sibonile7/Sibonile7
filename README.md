@@ -1,19 +1,21 @@
 ## 👋 Hi, I’m Sibonile (aka @Sibonile7)
 
-I’m an M.Sc. student in **Artificial Intelligence for Smart Sensors & Actuators** based in Germany, with interests in **AI, robotics, computer vision, and software engineering**.
+🚀 **I build applied AI systems and integrate ML into real products and workflows — from idea → model → deployment.**  
+🎓 M.Sc. student in **Artificial Intelligence for Smart Sensors & Actuators**
 
 ### 👀 Interests
-- Machine Learning & Applied AI  
-- Robotics (autonomous systems, sensing, navigation)  
-- Computer Vision (detection, tracking, real-world deployments)
+- **Applied AI** (real-world ML solutions)
+- **AI integration** (embedding AI into apps, tools, and workflows)
+- **Robotics & Smart Systems** (sensing, control, autonomy)
+- **Computer Vision** (detection, tracking, edge use-cases)
 
 ### 🌱 Currently learning / building
-- ML fundamentals + model evaluation  
-- Robotics tools (ROS, simulation, control)  
-- Computer vision projects and edge/IoT-focused AI systems
+- ML fundamentals + evaluation
+- Robotics (ROS, simulation, control)
+- Practical CV projects + deployment mindset
 
 ### 📫 Contact
-Email: **bonniemthunzimthunzi@gmail.com**
+📧 **bonniemthunzimthunzi@gmail.com**
 
 
 <!---
