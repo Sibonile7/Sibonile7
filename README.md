@@ -4,12 +4,12 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" />
 
-## 👋 Hi, I’m Sibonile
+## Hi, I’m Sibonile
 
  **I build applied AI systems and integrate ML into real products and workflows — from idea → model → deployment.**  
  M.Sc. student in **Artificial Intelligence for Smart Sensors & Actuators** (Germany)
 
-### 👀 Interests
+###  Interests
 - Applied AI (real-world ML solutions)
 - AI integration (embedding AI into apps, tools, and workflows)
 - Robotics & smart systems (sensing, control, autonomy)
@@ -20,11 +20,11 @@
 - Robotics with ROS: simulation, control, navigation
 - Turning ideas into demo-ready systems
 
-### 🧰 Tech Stack
+### Tech Stack
 **Python • PyTorch • OpenCV • scikit-learn • ROS • Docker • Linux • Git**
 
-### 📫 Contact
-📧 **bonniemthunzimthunzi@gmail.com**
+###  Contact
+**bonniemthunzimthunzi@gmail.com**
 
 
 
