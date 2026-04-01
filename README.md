@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Sibonile%20%7C%20@Sibonile7&fontAlign=50&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Sibonile&fontAlign=50&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=800&lines=Applied+AI+%7C+AI+Integration+%7C+Robotics+%7C+Computer+Vision;Building+real-world+AI+systems+end-to-end" />
 
